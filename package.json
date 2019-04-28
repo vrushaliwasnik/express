@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrushaliwasnik/express.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Vrushali Wasnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrushaliwasnik/express/issues"
+  },
+  "homepage": "https://github.com/vrushaliwasnik/express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
